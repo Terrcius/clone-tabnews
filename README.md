@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Um projeto para me tornar um programador melhor
+Um projeto para aprender sobre os conceitos da programação
